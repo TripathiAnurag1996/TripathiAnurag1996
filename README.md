@@ -1,6 +1,11 @@
 # 💫 About Me:
-AI Tech Product Manager & Founder with a strong engineering foundation.<br>I build AI-first products that blend technology, user insight, and business impact.<br><br>6+ years across software engineering, product management, and startup leadership — shipping real systems, not just ideas.<br><br>Currently focused on:<br><br>AI-powered product systems<br><br>Automation-driven workflows<br><br>Scalable SaaS experiments<br><br>I care about clarity, execution speed, and building things that actually solve problems.
 
+- 🔭 **I'm currently working on:** AI-powered product tools — including PromptoAI, a Chrome extension for structured prompt engineering, and LLM evaluation frameworks for B2B SaaS teams
+- 👥 **I'm looking to collaborate on:** Open-source AI product tooling, LLM quality evaluation systems, and async-first SaaS products built for remote-first teams
+- 🤝 **I'm looking for help with:** Scaling AI product systems — feedback on RAG architectures, human-in-the-loop design patterns, and model evaluation criteria that actually hold up in production
+- 🌱 **I'm currently learning:** Advanced prompt architecture, AI agent workflows, and the PM craft behind shipping responsible AI features — not just fast ones
+- 💬 **Ask me about:** Building LLM-powered features from 0-to-1, defining AI output quality standards, bridging engineering and product in AI teams, or making the jump from SWE to PM
+- ⚡ **Fun fact:** I've shipped both code and PRDs for the same product — I write Python to prototype the thing I'm then going to roadmap. Engineers find this unsettling.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuragtripathi-pm/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://anuragtripathi.pro/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anurag.akt@gmail.com) 
